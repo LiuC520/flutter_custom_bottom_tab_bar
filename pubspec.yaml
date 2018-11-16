@@ -1,8 +1,9 @@
 name: flutter_custom_bottom_tab_bar
-description: A new Flutter package project.
+description: flutter_custom_bottom_tab_bar.
 version: 0.0.1
-author:
-homepage:
+author: liucheng <liu520vr@gmail.com>
+homepage: https://github.com/LiuC520/flutter_custom_bottom_tab_bar
+
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
