@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
 import 'dart:ui';
-import 'routers.dart' show routerNames, routerNamesCN;
-import 'package:bottom_tab_bar/bottom_tab_bar.dart';
 import './home/index.dart';
 
-import '../widgets/tabbar/tabbar.dart';
-import '../widgets/tabbar/eachtab.dart';
+import 'package:flutter_custom_bottom_tab_bar/eachtab.dart';
 
 /**
  * bottomNavigationBar不使用BottomTabBar而使用自定义的TabBar

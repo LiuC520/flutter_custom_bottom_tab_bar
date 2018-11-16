@@ -2,7 +2,6 @@ library routers;
 
 import 'package:flutter/material.dart';
 import 'entry.dart';
-import './gesture/index.dart';
 // final routerNames = ['row--水平布局', 'transform', 'scale', 'rotation'];
 
 // final routes = {
@@ -32,7 +31,7 @@ List<String> routerNamesCN = [
 /**
  * 路由的widget
  */
-var widgets = [Gesture()];
+var widgets = [Entry()];
 
 /**
  * 生成路由map

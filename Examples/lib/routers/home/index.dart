@@ -1,8 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:cool_ui/cool_ui.dart';
-import 'dart:math' as m;
-import 'package:common_utils/common_utils.dart';
-import 'package:flustars/flustars.dart';
 import '../../rewrite/super_tooltip.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter_custom_bottom_tab_bar/tabbar.dart';

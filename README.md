@@ -53,6 +53,18 @@ bottom_tab_bar是通过改变state来控制每一个tab的点击的点击事件�
 
 
 ## Example
+在pubspec.yaml中引入包
+```
+  flutter_custom_bottom_tab_bar:
+    git: https://github.com/LiuC520/flutter_custom_bottom_tab_bar.git
+```
+
+```
+在要使用的文件中导入文件
+
+import 'package:flutter_custom_bottom_tab_bar/tabbar.dart';
+import 'package:flutter_custom_bottom_tab_bar/eachtab.dart';
+```
 
 ```
 
