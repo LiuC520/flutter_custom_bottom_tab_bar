@@ -1,12 +1,11 @@
-# flutter_bottom_tab_bar
-# custom_bottom_tab_bar
+# flutter_custom_bottom_tab_bar
 
 和另外一个bottom_tab_bar的区别：[https://github.com/LiuC520/flutter_bottom_tab_bar](https://github.com/LiuC520/flutter_bottom_tab_bar)
 bottom_tab_bar是通过改变state来控制每一个tab的点击的点击事件，然后改变上面的显示内容，这样的方法比较慢比较卡，并不能满足我们的日常使用
 
 本文的具体的用法参考了，顶部tab的切换来做的，比较快
 
-
+![flutter_custom_bottom_tab_bar](/screenshot.png)
 自定义底部导航tab
 
 #### 官方的tab导航，tabbar无法改变宽高，因此无法自定义
